@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hello 👋, I'm Joshua Clifford</h1> -->
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Joshua+Clifford.;+A+frontend+developer!" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Joshua+Clifford.;+A+frontend+developer!" alt="Typing SVG" /></a>
 <h3 align="center">I am a JavaScript developer from Abuja, Nigeria. I'm currently working at Walex-biz as a Font-End engineer. I have some works with JavaScript, Node.js and React. When I'm not coding, you can find me geeking about Anime, Superhero Movies, i enjoy playing baskeball and Video games. #CallOfDuty.</h3>
 
 - 🌱 I’m currently learning **React Native and flutter**
