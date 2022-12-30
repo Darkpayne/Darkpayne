@@ -10,8 +10,8 @@
 
 <p align="left">
 </p>
-<h2>Enjoy a Meme while you are here. &#128512</h2>
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."  height="500">
+<!-- <h2>Enjoy a Meme while you are here. &#128512</h2>
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."  height="500"> -->
 <h3 align="left">Languages and Frameworks:</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
