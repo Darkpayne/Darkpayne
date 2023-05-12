@@ -1,6 +1,6 @@
-<h1 align="center">Hello 👋, I'm Joshua Clifford</h1>
+<h1 align="center">Hey there! 👋, I'm Joshua Clifford</h1>
 <!-- <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Joshua+Clifford.;+A+frontend+developer!" alt="Typing SVG" /> -->
-<h3 align="center" style="color:red;">I am a software developer from Abuja, Nigeria. I'm currently working at Walex-biz as a Font-End engineer. I have some works with JavaScript, Node.js and React. When I'm not coding, you can find me geeking about Anime, Superhero Movies, i also enjoy playing baskeball and Video games. #CallOfDuty.</h3>
+<h3 align="center" style="color:red;">I'm a web/app developer who's all about the frontend. I absolutely love creating cool and user-friendly interfaces that make people go, "Wow!" I've got a knack for blending design and functionality to make things look amazing and work like a charm. When I'm not busy coding up a storm, you can find me indulging in my hobbies. I'm a big fan of hiking in the great outdoors, I love traveling, playing basketball cuz i'm 6'3, and getting lost in adventorous video games. </h3>
 
 - 🌱 I’m currently learning **React Native and flutter**
 
