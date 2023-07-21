@@ -35,3 +35,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darkpayne&" alt="Joshua Clifford" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Darkpayne&show_icons=true&locale=en&layout=compact" alt="Darkpayne" /></p>
