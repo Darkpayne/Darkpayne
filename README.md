@@ -2,7 +2,7 @@
 <!-- <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Joshua+Clifford.;+A+frontend+developer!" alt="Typing SVG" /> -->
 <h3 align="center" style="color:red;">Passionate Full Stack Developer with a strong focus on front-end development and expertise in React, Next.js, and React Native frameworks. Proficient in back-end technologies such as Express, PHP, and Laravel. Dedicated to delivering robust and user-friendly web and mobile applications. Enthusiastic traveler, avid coder, and connoisseur of good meals and getting lost in adventorous video games. </h3>
 
-- 🌱 I’m currently learning **React Native and flutter**
+- 🌱 I’m currently learning **flutter**
 
 - 💬 Ask me about **Web developement**
 
